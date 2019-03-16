@@ -1,5 +1,7 @@
 # Start Page Simpson
 
+**This is a ![Live version.](https://vill1960.github.io/StratPageSimpson/MyStartPage/)**
+
 ![Imgur](https://i.imgur.com/mqjJ2Ct.png)
 
 This is a start page for you navigator, developed with JavaScript.
@@ -20,7 +22,7 @@ For example, if you want to add a link to cell “x3y4” in zone “E”:
 
 ![Imgur](https://i.imgur.com/qHMDjAc.png)
 
-5.	Write in the space between quotes the name and the extension of the image that you added to the "MyStarterPage\Img\icon" folder. 
+5.	Write in the space between quotes the name and the extension of the image that you added to the "MyStarterPage\Img\icon" folder.
 
 ![Imgur](https://i.imgur.com/0a99o1n.png)
 
