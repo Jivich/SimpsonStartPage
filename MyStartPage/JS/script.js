@@ -155,7 +155,7 @@ StartPage.prototype.creaTabla = function () {
         if (!attrImagen) {
           icono.setAttribute("src", "");
         } else {
-          icono.setAttribute("src", "img/icon/"+attrImagen);
+          icono.setAttribute("src", "Img/icon/"+attrImagen);
           enlace.appendChild(icono);
         }
 
