@@ -96,19 +96,19 @@ StartPage.prototype.imgRandom = function() {
 
   if (nRandom == 1) {
     document.getElementsByTagName("BODY")[0].style.background = "#00793e";
-    var imagen = "Img/card/homero_0";
+    var imagen = "img/card/homero_0";
     for (var i = 0; i <= 5; i++) {
       document.getElementById("imgGrid" + arrayIMG[i]).src = imagen + (i + 1) + ".png";
     }
   } else if (nRandom == 2) {
     document.getElementsByTagName("BODY")[0].style.background = "#870610";
-    var imagen = "Img/card/magios_0";
+    var imagen = "img/card/magios_0";
     for (var i = 0; i <= 5; i++) {
       document.getElementById("imgGrid" + arrayIMG[i]).src = imagen + (i + 1) + ".png";
     }
   } else if (nRandom == 3) {
     document.getElementsByTagName("BODY")[0].style.background = "#203765";
-    var imagen = "Img/card/simpson_0";
+    var imagen = "img/card/simpson_0";
     for (var i = 0; i <= 5; i++) {
       document.getElementById("imgGrid" + arrayIMG[i]).src = imagen + (i + 1) + ".png";
     }
