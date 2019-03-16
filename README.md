@@ -1,6 +1,6 @@
 # Start Page Simpson
 
-**This is a ![Live version.](https://vill1960.github.io/StratPageSimpson/MyStartPage/)**
+**This is a [Live version.](https://vill1960.github.io/StratPageSimpson/MyStartPage/)**
 
 ![Imgur](https://i.imgur.com/mqjJ2Ct.png)
 
