@@ -1,6 +1,6 @@
 # Start Page Simpson
 
-**This is a [Live version.](https://vill1960.github.io/StratPageSimpson/MyStartPage/)**
+**This is a [Live version.](https://vill1960.github.io/StartPageSimpson/MyStartPage/)**
 
 ![Imgur](https://i.imgur.com/mqjJ2Ct.png)
 
@@ -10,7 +10,7 @@ This is a start page for you navigator, developed with JavaScript.
 ![Imgur](https://i.imgur.com/JNDblSw.png)
 
 For example, if you want to add a link to cell “x3y4” in zone “E”:
-1.	Add the image (Preferably an image of 512px X 512px) you want to have as icon to the “MyStarterPage\Img\icon" folder.
+1.	Add the image (Preferably an image of 512px X 512px) you want to have as icon to the “MyStartPage\Img\icon" folder.
 
 2.	Open the file “enlaces.json”.
 
@@ -22,7 +22,7 @@ For example, if you want to add a link to cell “x3y4” in zone “E”:
 
 ![Imgur](https://i.imgur.com/qHMDjAc.png)
 
-5.	Write in the space between quotes the name and the extension of the image that you added to the "MyStarterPage\Img\icon" folder.
+5.	Write in the space between quotes the name and the extension of the image that you added to the "MyStartPage\Img\icon" folder.
 
 ![Imgur](https://i.imgur.com/0a99o1n.png)
 
@@ -56,7 +56,7 @@ For example, if you want to add a birthday date in April 23.
 
 ## Choose between one of the three different views.
 
-1. Open the file “MyStarterPage\JS\script.js”
+1. Open the file “MyStartPage\JS\script.js”
 
 2. Locate line 100 of the file.
 
@@ -67,5 +67,20 @@ For example, if you want to add a birthday date in April 23.
 ![Imgur](https://i.imgur.com/k1LJqsq.png)
 ![Imgur](https://i.imgur.com/zCdgfmA.png)
 ![Imgur](https://i.imgur.com/IusXO80.png)
+
+4. Finally, save the file.
+
+
+## Show your name.
+
+1. Open the file “MyStartPage\JS\script.js”
+
+2. Locate line 188 of the file.
+
+![Imgur](https://i.imgur.com/jHbh64k.png)
+
+3. Write your name.
+
+![Imgur](https://i.imgur.com/LDnMlFV.png)
 
 4. Finally, save the file.
