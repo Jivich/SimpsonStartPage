@@ -1,6 +1,6 @@
-# Start Page Simpson
+# Simpson Start Page
 
-**This is a [Live version.](https://vill1960.github.io/StartPageSimpson/MyStartPage/)**
+**This is a [Live version.](https://vill1960.github.io/SimpsonStartPage/MyStartPage/)**
 
 ![Imgur](https://i.imgur.com/mqjJ2Ct.png)
 
