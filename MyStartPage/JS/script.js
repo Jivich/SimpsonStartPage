@@ -38,13 +38,13 @@ StartPage.prototype.formatoHora = function(){
 }
 
 StartPage.prototype.formatoCelebracion = function(){
-    var monthArray = new Array("enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre");
+    var monthArray = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
     var dayNumber =  new Date().getDate();
     var monthIndex =  new Date().getMonth();
     var monthName = monthArray[monthIndex];
     var msg=null;
     var i=0;
-    var msg = myObj[monthArray[monthIndex]][dayNumber-1].celebracion;
+    var msg = myObj[monthArray[monthIndex]][dayNumber-1].celebration;
 
     return (document.getElementById("celebration").innerHTML = msg);
 }
@@ -95,7 +95,7 @@ StartPage.prototype.imgRandom = function() {
   //var nRandom = 1;
 
   if (nRandom == 1) {
-    document.getElementsByTagName("BODY")[0].style.background = "#00793e";
+    document.getElementsByTagName("BODY")[0].style.background = "#0c7844";
     var imagen = "Img/card/homero_0";
     for (var i = 0; i <= 5; i++) {
       document.getElementById("imgGrid" + arrayIMG[i]).src = imagen + (i + 1) + ".png";
@@ -129,7 +129,7 @@ StartPage.prototype.creaTabla = function () {
     table.setAttribute("class", "tabla");
     document.getElementsByClassName("direction-reveal__overlay")[g].appendChild(table);
     /*Access the JSON object*/
-    var tabla = Enlaces[grids[g]];
+    var tabla = urls[grids[g]];
     var contador = 0;
     /*Create row*/
     for (x = 0; x < rowTotal; x++) {
@@ -137,8 +137,8 @@ StartPage.prototype.creaTabla = function () {
       row.setAttribute("class", "row");
       /*Create cell*/
       for (y = 0; y < cellTotal; y++) {
-        var attrHref = tabla[contador].enlace;
-        var attrImagen = tabla[contador].imagen;
+        var attrHref = tabla[contador].url;
+        var attrImagen = tabla[contador].icon;
 
         var cell = document.createElement("td");
         cell.setAttribute("id", "x"+x+"y"+y);
