@@ -172,7 +172,7 @@ StartPage.prototype.consolaInformacion = function(){
     var egg = console.log("There are no easter eggs here.");
     var rabbit = console.log("    (\\_/)");
     var rabbit = console.log("   =('_')=");
-    var giHub = console.log("GitHub: https://github.com/vill1960/");
+    var giHub = console.log("GitHub: https://github.com/Jivich/");
 
     return (egg, rabbit, giHub);
 }

@@ -1,16 +1,20 @@
 # Simpson Start Page
 
-**This is a [Live version.](https://vill1960.github.io/SimpsonStartPage/MyStartPage/)**
+This is a start page for your desktop browser, developed with JavaScript.
+
+**[Live version.](https://Jivich.github.io/SimpsonStartPage/MyStartPage/)**
+
+
 
 ![Imgur](https://i.imgur.com/mqjJ2Ct.png)
 
-This is a start page for your desktop browser, developed with JavaScript.
+
 
 ## Add a link.
 ![Imgur](https://i.imgur.com/JNDblSw.png)
 
 For example, if you want to add a link to cell “x3y4” in “GridE”:
-1.	Add to the folder "MyStartPage\Img\icon" the image that you want to have as icon (Preferably an image of 512px X 512px).
+1.	Add to the folder "MyStartPage\Images\icon" the image that you want to have as icon (Preferably an image of 512px X 512px).
 
 2.	Open the file “urls.json”.
 
@@ -56,7 +60,7 @@ For example, if you want to add a birthday date in April 23.
 
 ## Choose between one of the three different views.
 
-1. Open the file “MyStartPage\JS\script.js”
+1. Open the file “MyStartPage\Scripts\script.js”
 
 2. Locate line 95 of the file.
 
@@ -73,7 +77,7 @@ For example, if you want to add a birthday date in April 23.
 
 ## Show your name.
 
-1. Open the file “MyStartPage\JS\script.js”
+1. Open the file “MyStartPage\Scripts\script.js”
 
 2. Locate line 188 of the file.
 

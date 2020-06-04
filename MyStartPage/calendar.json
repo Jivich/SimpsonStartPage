@@ -165,7 +165,7 @@ var myObj = {
   "June":[
     {"day":1, "celebration":[""]},
     {"day":2, "celebration":[""]},
-    {"day":3, "celebration":[""]},
+    {"day":3, "celebration":["Hello world"]},
     {"day":4, "celebration":[""]},
     {"day":5, "celebration":[""]},
     {"day":6, "celebration":[""]},
